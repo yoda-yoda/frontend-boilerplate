@@ -1,18 +1,18 @@
 {
   "author": "@yoda-yoda",
-  "name": "yoda-face",
+  "name": "frontend-boilerplate",
   "version": "0.1.0",
   "description": "A face for my personal site",
-  "homepage": "https://github.com/yoda-yoda/yoda-face",
-  "bugs": "https://github.com/yoda-yoda/yoda-face/issues",
+  "homepage": "https://github.com/yoda-yoda/frontend-boilerplate",
+  "bugs": "https://github.com/yoda-yoda/frontend-boilerplate/issues",
   "repository": {
     "type": "git",
-    "url": "git@yoda:yoda-yoda/yoda-face.git"
+    "url": "git@yoda:https://github.com/yoda-yoda/frontend-boilerplate.git"
   },
   "keywords": [
-    "yoda",
-    "master",
-    "yoda-face"
+    "angular boilterplate",
+    "frontend boilerplate",
+    "frontend bp"
   ],
   "license": "MIT",
   "devDependencies": {

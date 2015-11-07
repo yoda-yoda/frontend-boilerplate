@@ -1,17 +1,17 @@
 {
-  "name": "yoda-face",
+  "name": "frontend-boilerplate",
   "version": "0.1.0",
-  "description": "A face for my personal site",
+  "description": "An Angular Boilerplate",
   "authors": [
     "@yoda-yoda"
   ],
   "license": "MIT",
   "keywords": [
-    "yoda",
-    "master",
-    "yoda-face"
+    "angular boilterplate",
+    "frontend boilerplate",
+    "frontend bp"
   ],
-  "homepage": "https://github.com/yoda-yoda/yoda-face",
+  "homepage": "https://github.com/yoda-yoda/frontend-boilerplate",
   "ignore": [
     "**/.*",
     "node_modules",
